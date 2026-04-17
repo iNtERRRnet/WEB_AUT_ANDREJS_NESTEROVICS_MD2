@@ -4,7 +4,7 @@ import { AppointmentPage } from "../pageObjects/appointmentPage";
 import { ConfirmationPage } from "../pageObjects/confirmationPage";
 import { HistoryPage } from "../pageObjects/historyPage";
 
-describe("Juice-shop scenarios", () => 
+describe("Homework2", () => 
 {
   beforeEach(() => 
   {
